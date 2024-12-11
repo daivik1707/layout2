@@ -1,0 +1,113 @@
+body {
+  padding: 0;
+  margin: 0;
+}
+
+.main {
+  width: 99%;
+  height: 757px;
+  display: flex;
+  justify-content: space-around;
+  padding-top: 8px;
+  padding-left: 8px;
+}
+
+.section1 {
+  height: 750px;
+  width: 450px;
+  /* border: 1px solid black; */
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+ 
+}
+
+.first {
+  height: 360px;
+  width: 450px;
+  /* border: 1px solid black; */
+  border-radius: 10px;
+  background-image: url(i1.jpg);
+  background-size: cover;
+}
+
+.second {
+  height: 360px;
+  width: 450px;
+  /* border: 1px solid black; */
+  border-radius: 10px;
+  background-image: url(i2.jpg);
+  background-size: cover;
+}
+
+.section2 {
+  height: 750px;
+  width: 470px;
+  /* border: 1px solid black; */
+  border-radius: 10px;
+  background-image: url(i3.jpg);
+  background-size: cover;
+}
+
+.section3 {
+  height: 755px;
+  width: 460px;
+  /* border: 1px solid black; */
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+}
+
+.upper{
+  height: 190px;
+  width: 460px;
+  /* border: 1px solid black; */
+  background-image: url(l2.jpg);
+  background-size: cover;
+  border-radius: 10px;
+  background-image: url(i4.jpg);
+  background-size: cover;
+}
+
+.middle{
+  height: 300px;
+  width: 460px;
+  /* border: 1px solid black; */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+}
+
+.lower{
+  height: 190px;
+  width: 460px;
+  /* border: 1px solid black; */
+  background-image: url(l5.jpg);
+  background-size: auto;
+  border-radius: 10px;
+  background-image: url(i7.jpg);
+  background-size: cover;
+}
+
+.box1{
+  height: 300px;
+  width: 300px;
+  /* border: 1px solid black; */
+  background-image: url(l3.jpg);
+  background-size: cover;
+  border-radius: 10px;
+  background-image: url(i5.jpg);
+  background-size: cover;
+}
+
+.box2{
+  height: 300px;
+  width: 300px;
+  /* border: 1px solid black; */
+  background-image: url(l4.jpg);
+  background-size: cover;
+  border-radius: 10px;
+  background-image: url(i6.jpg);
+  background-size: cover;
+}
